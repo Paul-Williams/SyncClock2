@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncClock2", "SyncClock2\SyncClock2.csproj", "{8EB54E7F-44C6-4B39-9637-E96C4F04F635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTimeApi", "WorldTimeApi\WorldTimeApi.csproj", "{C2AF8E1C-2BD7-40BB-AC93-0556D0C1023E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB54E7F-44C6-4B39-9637-E96C4F04F635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB54E7F-44C6-4B39-9637-E96C4F04F635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB54E7F-44C6-4B39-9637-E96C4F04F635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB54E7F-44C6-4B39-9637-E96C4F04F635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2AF8E1C-2BD7-40BB-AC93-0556D0C1023E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AF8E1C-2BD7-40BB-AC93-0556D0C1023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AF8E1C-2BD7-40BB-AC93-0556D0C1023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AF8E1C-2BD7-40BB-AC93-0556D0C1023E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32DF041-E571-4C42-A071-8DB353DF2105}
+	EndGlobalSection
+EndGlobal
